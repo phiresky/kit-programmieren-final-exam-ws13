@@ -1,0 +1,6 @@
+musik/happy.mp3,audio,30,genre=funk,author=Pharrell Williams,fun
+dokumente/Abschlussaufgabe 1,program,5,author=me
+dokumente/Abschlussaufgabe 2,program,14,author=me,fun
+dokumente/Funny Quotes.txt,text,7,author=various,fun
+video/Familienfeier.mpg,video,4,author=me
+bilder/Oma.jpg,image,1,family
